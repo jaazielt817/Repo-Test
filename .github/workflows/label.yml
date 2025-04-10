@@ -17,4 +17,4 @@ jobs:
       pull-requests: write
 
     steps:
-    - uses: actions/labeler@5
+    - uses: actions/labeler@v5
